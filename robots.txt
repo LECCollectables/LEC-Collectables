@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leccollectables.github.io/LEC-Collectables/sitemap.xml
